@@ -5,6 +5,6 @@
 
 ![Image alt](https://github.com/piton1/DA/blob/main/quant.png)
 
-[![Watch the video](https://img.youtube.com/vi/BFYbGYiUMx4/maxresdefault.jpg)(https://www.youtube.com/watch?v=BFYbGYiUMx4)
+[![Watch the video](https://img.youtube.com/vi/BFYbGYiUMx4/maxresdefault.jpg https://www.youtube.com/watch?v=BFYbGYiUMx4)
 
 
