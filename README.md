@@ -3,6 +3,8 @@
 
 Занятие 11 теория вероятности
 
+![Image alt](https://github.com/piton1/DA/blob/main/poisson.png)
+
 Зянятие 12  математическая статистика
 
 Занятие 13 A/B-тестирование
