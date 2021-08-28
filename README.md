@@ -1,13 +1,13 @@
 # DA
 ## Материалы к курсу DA КУ Сбера 
 
-### Занятие 11 теория вероятности
+### Занятие 11 теория вероятности и математическая статистика
 
 https://github.com/piton1/DA/tree/Lesson_11
 
 ![Image alt](https://github.com/piton1/DA/blob/main/poisson.png)
 
-### Занятие 12  математическая статистика
+### Занятие 12  статистический анализ
 
 https://github.com/piton1/DA/tree/Lesson_12
 
