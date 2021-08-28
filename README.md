@@ -5,6 +5,6 @@
 
 ![Image alt](https://github.com/piton1/DA/blob/main/quant.png)
 
-[![Watch the video](https://github.com/piton1/DA/Lesson_12/blob/main/double_Galton_board.mov)
+[![Watch the video](https://github.com/piton1/DA/Lesson_12/double_Galton_board.mov)
 
 #######(https://img.youtube.com/vi/T-D1KVIuvjA/maxresdefault.jpg)]
