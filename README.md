@@ -10,4 +10,4 @@
 [![Watch the video](https://img.youtube.com/vi/BFYbGYiUMx4/maxresdefault.jpg)](https://www.youtube.com/watch?v=BFYbGYiUMx4)
  
 (&copy) 
-print('\u00A9')
+<\u00A9>
