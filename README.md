@@ -9,4 +9,4 @@
 
 [![Watch the video](https://img.youtube.com/vi/BFYbGYiUMx4/maxresdefault.jpg)](https://www.youtube.com/watch?v=BFYbGYiUMx4)
  
-(с) 
+&copy  
