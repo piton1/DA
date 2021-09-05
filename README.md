@@ -7,6 +7,6 @@
 
 ### Видео эмуляции машины Гальтона
 
-[![Watch the video](https://img.youtube.com/vi/BFYbGYiUMx4/maxresdefault.jpg)](https://www.youtube.com/watch?v=BFYbGYiUMx4)
+[![Watch the video](https://img.youtube.com/vi/B0e26gjXk4k/maxresdefault.jpg)](https://youtu.be/B0e26gjXk4k)
  
 [![Watch the video](https://img.youtube.com/vi/MGExwNvffmg/maxresdefault.jpg)](https://youtu.be/MGExwNvffmg)
