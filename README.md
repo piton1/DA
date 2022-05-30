@@ -10,7 +10,7 @@
 https://github.com/piton1/DA/blob/Lesson_11/%D0%97%D0%B0%D0%BD%D1%8F%D1%82%D0%B8%D0%B5%2011%20%D0%B4%D0%B5%D0%BC%D0%BE.ipynb
 
 ### Парадокс теоремы Байеса
-описание wiki [[Парадокс Спящей Красавицы]https://ru.wikipedia.org/w/index.php?title=%D0%A2%D0%B5%D0%BE%D1%80%D0%B5%D0%BC%D0%B0_%D0%91%D0%B0%D0%B9%D0%B5%D1%81%D0%B0#:~:text=%D0%9F%D1%80%D0%B8%D0%BC%D0%B5%D1%80%204%C2%A0%E2%80%94%20%D0%BF%D0%B0%D1%80%D0%B0%D0%B4%D0%BE%D0%BA%D1%81%20%D1%82%D0%B5%D0%BE%D1%80%D0%B5%D0%BC%D1%8B%20%D0%91%D0%B0%D0%B9%D0%B5%D1%81%D0%B0%5B%D0%BF%D1%80%D0%B0%D0%B2%D0%B8%D1%82%D1%8C,001%7D%7D%5Capprox%200%7B%2C%7D1098%5Cend%7Baligned%7D%7D%7D]
+описание wiki [![Парадокс Спящей Красавицы]https://ru.wikipedia.org/w/index.php?title=%D0%A2%D0%B5%D0%BE%D1%80%D0%B5%D0%BC%D0%B0_%D0%91%D0%B0%D0%B9%D0%B5%D1%81%D0%B0#:~:text=%D0%9F%D1%80%D0%B8%D0%BC%D0%B5%D1%80%204%C2%A0%E2%80%94%20%D0%BF%D0%B0%D1%80%D0%B0%D0%B4%D0%BE%D0%BA%D1%81%20%D1%82%D0%B5%D0%BE%D1%80%D0%B5%D0%BC%D1%8B%20%D0%91%D0%B0%D0%B9%D0%B5%D1%81%D0%B0%5B%D0%BF%D1%80%D0%B0%D0%B2%D0%B8%D1%82%D1%8C,001%7D%7D%5Capprox%200%7B%2C%7D1098%5Cend%7Baligned%7D%7D%7D]
 
 https://github.com/piton1/DA/blob/Lesson_11/bayes_example_emulation%20.ipynb
 
