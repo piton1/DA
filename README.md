@@ -13,7 +13,7 @@
 
 ## Шаблон домашнего задания
 [Практика_к_занятию_12-empty.ipynb](https://github.com/piton1/DA/blob/Lesson_12/%D0%9F%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D0%BA%D0%B0_%D0%BA_%D0%B7%D0%B0%D0%BD%D1%8F%D1%82%D0%B8%D1%8E_12-empty.ipynb)
-
+[Dataset](https://github.com/piton1/DA/blob/Lesson_12/telecom_churn.csv) 
 
 ### Видео эмуляции машины Гальтона
 
